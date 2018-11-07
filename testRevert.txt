@@ -1,3 +1,4 @@
 firstCommit
 Thêm giải thích commit
 Thêm giải thích pull
+Revert "Thêm giải thích pull"
